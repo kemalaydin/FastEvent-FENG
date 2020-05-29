@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix___003-spotlight" width="22" height="22" data-name="003-spotlight" viewBox="0 0 22 22">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#73727d}
+        </style>
+    </defs>
+    <path id="prefix__Path_247" d="M2.311 227.419l.912.912-2.279 2.279a3.223 3.223 0 0 0 1.634 5.436v1.44H0v1.289h6.445v-1.289H3.867v-1.44a3.2 3.2 0 0 0 1.634-.879l2.279-2.279.912.912.911-.911-6.381-6.381zm0 0" class="prefix__cls-1" data-name="Path 247" transform="translate(0 -216.775)"/>
+    <path id="prefix__Path_248" d="M308.556 0h-8.74l2.913 5.826zm0 0" class="prefix__cls-1" data-name="Path 248" transform="translate(-286.934)"/>
+    <path id="prefix__Path_249" d="M127.449 188.4l2.948 2.948 1.621-1.621-3.488-3.489zm0 0" class="prefix__cls-1" data-name="Path 249" transform="translate(-121.973 -178.236)"/>
+    <path id="prefix__Path_250" d="M24.935 10.164L19.853 0H8.789l13.2 13.112zm0 0" class="prefix__cls-1" data-name="Path 250" transform="translate(-8.411)"/>
+    <path id="prefix__Path_251" d="M295.533 236.046a3.222 3.222 0 0 0 1.634-5.436l-2.279-2.279.912-.912-.911-.911-6.381 6.381.911.911.912-.912 2.279 2.279a3.2 3.2 0 0 0 1.634.879v1.44h-2.578v1.289h6.445v-1.289h-2.578zm0 0" class="prefix__cls-1" data-name="Path 251" transform="translate(-276.111 -216.775)"/>
+</svg>
